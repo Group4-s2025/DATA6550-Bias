@@ -1,2 +1,3 @@
 # DATA6550-Bias
-hi
+This directory is for a Data Ethics class group assignment.
+
